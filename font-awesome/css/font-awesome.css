@@ -218,10 +218,10 @@
 .fa-search-minus:before {
   content: "\f010";
 }
-.fa-power-off:before {
+.fa-satellite:before {
   content: "\f011";
 }
-.fa-signal:before {
+.fa-redhat:before {
   content: "\f012";
 }
 .fa-gear:before,
@@ -355,10 +355,10 @@
 .fa-picture-o:before {
   content: "\f03e";
 }
-.fa-satellite:before {
+.fa-pencil:before {
   content: "\f040";
 }
-.fa-redhat:before {
+.fa-map-marker:before {
   content: "\f041";
 }
 .fa-adjust:before {
