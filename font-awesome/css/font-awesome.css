@@ -218,10 +218,10 @@
 .fa-search-minus:before {
   content: "\f010";
 }
-.fa-satellite:before {
+.fa-power-off:before {
   content: "\f011";
 }
-.fa-redhat:before {
+.fa-signal:before {
   content: "\f012";
 }
 .fa-gear:before,
