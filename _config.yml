@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://in-amber.github.io/" # the base hostname & protocol for your site
 
-phone_number: 617-784-4063
+linkedin: braden-wilson
 github_username: in-amber
 
 # Build settings
